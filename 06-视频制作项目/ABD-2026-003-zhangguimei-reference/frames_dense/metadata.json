@@ -1,0 +1,612 @@
+{
+  "duration": 145.448005,
+  "videoWidth": 1280,
+  "videoHeight": 720,
+  "readyState": 4,
+  "interval": 1,
+  "outDir": "D:\\codex\\projects\\AiBianDao\\06-视频制作项目\\ABD-2026-003-zhangguimei-reference\\frames_dense",
+  "frames": [
+    {
+      "time": 0,
+      "path": "D:\\codex\\projects\\AiBianDao\\06-视频制作项目\\ABD-2026-003-zhangguimei-reference\\frames_dense\\frame_0000.png"
+    },
+    {
+      "time": 1,
+      "path": "D:\\codex\\projects\\AiBianDao\\06-视频制作项目\\ABD-2026-003-zhangguimei-reference\\frames_dense\\frame_0001.png"
+    },
+    {
+      "time": 2,
+      "path": "D:\\codex\\projects\\AiBianDao\\06-视频制作项目\\ABD-2026-003-zhangguimei-reference\\frames_dense\\frame_0002.png"
+    },
+    {
+      "time": 3,
+      "path": "D:\\codex\\projects\\AiBianDao\\06-视频制作项目\\ABD-2026-003-zhangguimei-reference\\frames_dense\\frame_0003.png"
+    },
+    {
+      "time": 4,
+      "path": "D:\\codex\\projects\\AiBianDao\\06-视频制作项目\\ABD-2026-003-zhangguimei-reference\\frames_dense\\frame_0004.png"
+    },
+    {
+      "time": 5,
+      "path": "D:\\codex\\projects\\AiBianDao\\06-视频制作项目\\ABD-2026-003-zhangguimei-reference\\frames_dense\\frame_0005.png"
+    },
+    {
+      "time": 6,
+      "path": "D:\\codex\\projects\\AiBianDao\\06-视频制作项目\\ABD-2026-003-zhangguimei-reference\\frames_dense\\frame_0006.png"
+    },
+    {
+      "time": 7,
+      "path": "D:\\codex\\projects\\AiBianDao\\06-视频制作项目\\ABD-2026-003-zhangguimei-reference\\frames_dense\\frame_0007.png"
+    },
+    {
+      "time": 8,
+      "path": "D:\\codex\\projects\\AiBianDao\\06-视频制作项目\\ABD-2026-003-zhangguimei-reference\\frames_dense\\frame_0008.png"
+    },
+    {
+      "time": 9,
+      "path": "D:\\codex\\projects\\AiBianDao\\06-视频制作项目\\ABD-2026-003-zhangguimei-reference\\frames_dense\\frame_0009.png"
+    },
+    {
+      "time": 10,
+      "path": "D:\\codex\\projects\\AiBianDao\\06-视频制作项目\\ABD-2026-003-zhangguimei-reference\\frames_dense\\frame_0010.png"
+    },
+    {
+      "time": 11,
+      "path": "D:\\codex\\projects\\AiBianDao\\06-视频制作项目\\ABD-2026-003-zhangguimei-reference\\frames_dense\\frame_0011.png"
+    },
+    {
+      "time": 12,
+      "path": "D:\\codex\\projects\\AiBianDao\\06-视频制作项目\\ABD-2026-003-zhangguimei-reference\\frames_dense\\frame_0012.png"
+    },
+    {
+      "time": 13,
+      "path": "D:\\codex\\projects\\AiBianDao\\06-视频制作项目\\ABD-2026-003-zhangguimei-reference\\frames_dense\\frame_0013.png"
+    },
+    {
+      "time": 14,
+      "path": "D:\\codex\\projects\\AiBianDao\\06-视频制作项目\\ABD-2026-003-zhangguimei-reference\\frames_dense\\frame_0014.png"
+    },
+    {
+      "time": 15,
+      "path": "D:\\codex\\projects\\AiBianDao\\06-视频制作项目\\ABD-2026-003-zhangguimei-reference\\frames_dense\\frame_0015.png"
+    },
+    {
+      "time": 16,
+      "path": "D:\\codex\\projects\\AiBianDao\\06-视频制作项目\\ABD-2026-003-zhangguimei-reference\\frames_dense\\frame_0016.png"
+    },
+    {
+      "time": 17,
+      "path": "D:\\codex\\projects\\AiBianDao\\06-视频制作项目\\ABD-2026-003-zhangguimei-reference\\frames_dense\\frame_0017.png"
+    },
+    {
+      "time": 18,
+      "path": "D:\\codex\\projects\\AiBianDao\\06-视频制作项目\\ABD-2026-003-zhangguimei-reference\\frames_dense\\frame_0018.png"
+    },
+    {
+      "time": 19,
+      "path": "D:\\codex\\projects\\AiBianDao\\06-视频制作项目\\ABD-2026-003-zhangguimei-reference\\frames_dense\\frame_0019.png"
+    },
+    {
+      "time": 20,
+      "path": "D:\\codex\\projects\\AiBianDao\\06-视频制作项目\\ABD-2026-003-zhangguimei-reference\\frames_dense\\frame_0020.png"
+    },
+    {
+      "time": 21,
+      "path": "D:\\codex\\projects\\AiBianDao\\06-视频制作项目\\ABD-2026-003-zhangguimei-reference\\frames_dense\\frame_0021.png"
+    },
+    {
+      "time": 22,
+      "path": "D:\\codex\\projects\\AiBianDao\\06-视频制作项目\\ABD-2026-003-zhangguimei-reference\\frames_dense\\frame_0022.png"
+    },
+    {
+      "time": 23,
+      "path": "D:\\codex\\projects\\AiBianDao\\06-视频制作项目\\ABD-2026-003-zhangguimei-reference\\frames_dense\\frame_0023.png"
+    },
+    {
+      "time": 24,
+      "path": "D:\\codex\\projects\\AiBianDao\\06-视频制作项目\\ABD-2026-003-zhangguimei-reference\\frames_dense\\frame_0024.png"
+    },
+    {
+      "time": 25,
+      "path": "D:\\codex\\projects\\AiBianDao\\06-视频制作项目\\ABD-2026-003-zhangguimei-reference\\frames_dense\\frame_0025.png"
+    },
+    {
+      "time": 26,
+      "path": "D:\\codex\\projects\\AiBianDao\\06-视频制作项目\\ABD-2026-003-zhangguimei-reference\\frames_dense\\frame_0026.png"
+    },
+    {
+      "time": 27,
+      "path": "D:\\codex\\projects\\AiBianDao\\06-视频制作项目\\ABD-2026-003-zhangguimei-reference\\frames_dense\\frame_0027.png"
+    },
+    {
+      "time": 28,
+      "path": "D:\\codex\\projects\\AiBianDao\\06-视频制作项目\\ABD-2026-003-zhangguimei-reference\\frames_dense\\frame_0028.png"
+    },
+    {
+      "time": 29,
+      "path": "D:\\codex\\projects\\AiBianDao\\06-视频制作项目\\ABD-2026-003-zhangguimei-reference\\frames_dense\\frame_0029.png"
+    },
+    {
+      "time": 30,
+      "path": "D:\\codex\\projects\\AiBianDao\\06-视频制作项目\\ABD-2026-003-zhangguimei-reference\\frames_dense\\frame_0030.png"
+    },
+    {
+      "time": 31,
+      "path": "D:\\codex\\projects\\AiBianDao\\06-视频制作项目\\ABD-2026-003-zhangguimei-reference\\frames_dense\\frame_0031.png"
+    },
+    {
+      "time": 32,
+      "path": "D:\\codex\\projects\\AiBianDao\\06-视频制作项目\\ABD-2026-003-zhangguimei-reference\\frames_dense\\frame_0032.png"
+    },
+    {
+      "time": 33,
+      "path": "D:\\codex\\projects\\AiBianDao\\06-视频制作项目\\ABD-2026-003-zhangguimei-reference\\frames_dense\\frame_0033.png"
+    },
+    {
+      "time": 34,
+      "path": "D:\\codex\\projects\\AiBianDao\\06-视频制作项目\\ABD-2026-003-zhangguimei-reference\\frames_dense\\frame_0034.png"
+    },
+    {
+      "time": 35,
+      "path": "D:\\codex\\projects\\AiBianDao\\06-视频制作项目\\ABD-2026-003-zhangguimei-reference\\frames_dense\\frame_0035.png"
+    },
+    {
+      "time": 36,
+      "path": "D:\\codex\\projects\\AiBianDao\\06-视频制作项目\\ABD-2026-003-zhangguimei-reference\\frames_dense\\frame_0036.png"
+    },
+    {
+      "time": 37,
+      "path": "D:\\codex\\projects\\AiBianDao\\06-视频制作项目\\ABD-2026-003-zhangguimei-reference\\frames_dense\\frame_0037.png"
+    },
+    {
+      "time": 38,
+      "path": "D:\\codex\\projects\\AiBianDao\\06-视频制作项目\\ABD-2026-003-zhangguimei-reference\\frames_dense\\frame_0038.png"
+    },
+    {
+      "time": 39,
+      "path": "D:\\codex\\projects\\AiBianDao\\06-视频制作项目\\ABD-2026-003-zhangguimei-reference\\frames_dense\\frame_0039.png"
+    },
+    {
+      "time": 40,
+      "path": "D:\\codex\\projects\\AiBianDao\\06-视频制作项目\\ABD-2026-003-zhangguimei-reference\\frames_dense\\frame_0040.png"
+    },
+    {
+      "time": 41,
+      "path": "D:\\codex\\projects\\AiBianDao\\06-视频制作项目\\ABD-2026-003-zhangguimei-reference\\frames_dense\\frame_0041.png"
+    },
+    {
+      "time": 42,
+      "path": "D:\\codex\\projects\\AiBianDao\\06-视频制作项目\\ABD-2026-003-zhangguimei-reference\\frames_dense\\frame_0042.png"
+    },
+    {
+      "time": 43,
+      "path": "D:\\codex\\projects\\AiBianDao\\06-视频制作项目\\ABD-2026-003-zhangguimei-reference\\frames_dense\\frame_0043.png"
+    },
+    {
+      "time": 44,
+      "path": "D:\\codex\\projects\\AiBianDao\\06-视频制作项目\\ABD-2026-003-zhangguimei-reference\\frames_dense\\frame_0044.png"
+    },
+    {
+      "time": 45,
+      "path": "D:\\codex\\projects\\AiBianDao\\06-视频制作项目\\ABD-2026-003-zhangguimei-reference\\frames_dense\\frame_0045.png"
+    },
+    {
+      "time": 46,
+      "path": "D:\\codex\\projects\\AiBianDao\\06-视频制作项目\\ABD-2026-003-zhangguimei-reference\\frames_dense\\frame_0046.png"
+    },
+    {
+      "time": 47,
+      "path": "D:\\codex\\projects\\AiBianDao\\06-视频制作项目\\ABD-2026-003-zhangguimei-reference\\frames_dense\\frame_0047.png"
+    },
+    {
+      "time": 48,
+      "path": "D:\\codex\\projects\\AiBianDao\\06-视频制作项目\\ABD-2026-003-zhangguimei-reference\\frames_dense\\frame_0048.png"
+    },
+    {
+      "time": 49,
+      "path": "D:\\codex\\projects\\AiBianDao\\06-视频制作项目\\ABD-2026-003-zhangguimei-reference\\frames_dense\\frame_0049.png"
+    },
+    {
+      "time": 50,
+      "path": "D:\\codex\\projects\\AiBianDao\\06-视频制作项目\\ABD-2026-003-zhangguimei-reference\\frames_dense\\frame_0050.png"
+    },
+    {
+      "time": 51,
+      "path": "D:\\codex\\projects\\AiBianDao\\06-视频制作项目\\ABD-2026-003-zhangguimei-reference\\frames_dense\\frame_0051.png"
+    },
+    {
+      "time": 52,
+      "path": "D:\\codex\\projects\\AiBianDao\\06-视频制作项目\\ABD-2026-003-zhangguimei-reference\\frames_dense\\frame_0052.png"
+    },
+    {
+      "time": 53,
+      "path": "D:\\codex\\projects\\AiBianDao\\06-视频制作项目\\ABD-2026-003-zhangguimei-reference\\frames_dense\\frame_0053.png"
+    },
+    {
+      "time": 54,
+      "path": "D:\\codex\\projects\\AiBianDao\\06-视频制作项目\\ABD-2026-003-zhangguimei-reference\\frames_dense\\frame_0054.png"
+    },
+    {
+      "time": 55,
+      "path": "D:\\codex\\projects\\AiBianDao\\06-视频制作项目\\ABD-2026-003-zhangguimei-reference\\frames_dense\\frame_0055.png"
+    },
+    {
+      "time": 56,
+      "path": "D:\\codex\\projects\\AiBianDao\\06-视频制作项目\\ABD-2026-003-zhangguimei-reference\\frames_dense\\frame_0056.png"
+    },
+    {
+      "time": 57,
+      "path": "D:\\codex\\projects\\AiBianDao\\06-视频制作项目\\ABD-2026-003-zhangguimei-reference\\frames_dense\\frame_0057.png"
+    },
+    {
+      "time": 58,
+      "path": "D:\\codex\\projects\\AiBianDao\\06-视频制作项目\\ABD-2026-003-zhangguimei-reference\\frames_dense\\frame_0058.png"
+    },
+    {
+      "time": 59,
+      "path": "D:\\codex\\projects\\AiBianDao\\06-视频制作项目\\ABD-2026-003-zhangguimei-reference\\frames_dense\\frame_0059.png"
+    },
+    {
+      "time": 60,
+      "path": "D:\\codex\\projects\\AiBianDao\\06-视频制作项目\\ABD-2026-003-zhangguimei-reference\\frames_dense\\frame_0060.png"
+    },
+    {
+      "time": 61,
+      "path": "D:\\codex\\projects\\AiBianDao\\06-视频制作项目\\ABD-2026-003-zhangguimei-reference\\frames_dense\\frame_0061.png"
+    },
+    {
+      "time": 62,
+      "path": "D:\\codex\\projects\\AiBianDao\\06-视频制作项目\\ABD-2026-003-zhangguimei-reference\\frames_dense\\frame_0062.png"
+    },
+    {
+      "time": 63,
+      "path": "D:\\codex\\projects\\AiBianDao\\06-视频制作项目\\ABD-2026-003-zhangguimei-reference\\frames_dense\\frame_0063.png"
+    },
+    {
+      "time": 64,
+      "path": "D:\\codex\\projects\\AiBianDao\\06-视频制作项目\\ABD-2026-003-zhangguimei-reference\\frames_dense\\frame_0064.png"
+    },
+    {
+      "time": 65,
+      "path": "D:\\codex\\projects\\AiBianDao\\06-视频制作项目\\ABD-2026-003-zhangguimei-reference\\frames_dense\\frame_0065.png"
+    },
+    {
+      "time": 66,
+      "path": "D:\\codex\\projects\\AiBianDao\\06-视频制作项目\\ABD-2026-003-zhangguimei-reference\\frames_dense\\frame_0066.png"
+    },
+    {
+      "time": 67,
+      "path": "D:\\codex\\projects\\AiBianDao\\06-视频制作项目\\ABD-2026-003-zhangguimei-reference\\frames_dense\\frame_0067.png"
+    },
+    {
+      "time": 68,
+      "path": "D:\\codex\\projects\\AiBianDao\\06-视频制作项目\\ABD-2026-003-zhangguimei-reference\\frames_dense\\frame_0068.png"
+    },
+    {
+      "time": 69,
+      "path": "D:\\codex\\projects\\AiBianDao\\06-视频制作项目\\ABD-2026-003-zhangguimei-reference\\frames_dense\\frame_0069.png"
+    },
+    {
+      "time": 70,
+      "path": "D:\\codex\\projects\\AiBianDao\\06-视频制作项目\\ABD-2026-003-zhangguimei-reference\\frames_dense\\frame_0070.png"
+    },
+    {
+      "time": 71,
+      "path": "D:\\codex\\projects\\AiBianDao\\06-视频制作项目\\ABD-2026-003-zhangguimei-reference\\frames_dense\\frame_0071.png"
+    },
+    {
+      "time": 72,
+      "path": "D:\\codex\\projects\\AiBianDao\\06-视频制作项目\\ABD-2026-003-zhangguimei-reference\\frames_dense\\frame_0072.png"
+    },
+    {
+      "time": 73,
+      "path": "D:\\codex\\projects\\AiBianDao\\06-视频制作项目\\ABD-2026-003-zhangguimei-reference\\frames_dense\\frame_0073.png"
+    },
+    {
+      "time": 74,
+      "path": "D:\\codex\\projects\\AiBianDao\\06-视频制作项目\\ABD-2026-003-zhangguimei-reference\\frames_dense\\frame_0074.png"
+    },
+    {
+      "time": 75,
+      "path": "D:\\codex\\projects\\AiBianDao\\06-视频制作项目\\ABD-2026-003-zhangguimei-reference\\frames_dense\\frame_0075.png"
+    },
+    {
+      "time": 76,
+      "path": "D:\\codex\\projects\\AiBianDao\\06-视频制作项目\\ABD-2026-003-zhangguimei-reference\\frames_dense\\frame_0076.png"
+    },
+    {
+      "time": 77,
+      "path": "D:\\codex\\projects\\AiBianDao\\06-视频制作项目\\ABD-2026-003-zhangguimei-reference\\frames_dense\\frame_0077.png"
+    },
+    {
+      "time": 78,
+      "path": "D:\\codex\\projects\\AiBianDao\\06-视频制作项目\\ABD-2026-003-zhangguimei-reference\\frames_dense\\frame_0078.png"
+    },
+    {
+      "time": 79,
+      "path": "D:\\codex\\projects\\AiBianDao\\06-视频制作项目\\ABD-2026-003-zhangguimei-reference\\frames_dense\\frame_0079.png"
+    },
+    {
+      "time": 80,
+      "path": "D:\\codex\\projects\\AiBianDao\\06-视频制作项目\\ABD-2026-003-zhangguimei-reference\\frames_dense\\frame_0080.png"
+    },
+    {
+      "time": 81,
+      "path": "D:\\codex\\projects\\AiBianDao\\06-视频制作项目\\ABD-2026-003-zhangguimei-reference\\frames_dense\\frame_0081.png"
+    },
+    {
+      "time": 82,
+      "path": "D:\\codex\\projects\\AiBianDao\\06-视频制作项目\\ABD-2026-003-zhangguimei-reference\\frames_dense\\frame_0082.png"
+    },
+    {
+      "time": 83,
+      "path": "D:\\codex\\projects\\AiBianDao\\06-视频制作项目\\ABD-2026-003-zhangguimei-reference\\frames_dense\\frame_0083.png"
+    },
+    {
+      "time": 84,
+      "path": "D:\\codex\\projects\\AiBianDao\\06-视频制作项目\\ABD-2026-003-zhangguimei-reference\\frames_dense\\frame_0084.png"
+    },
+    {
+      "time": 85,
+      "path": "D:\\codex\\projects\\AiBianDao\\06-视频制作项目\\ABD-2026-003-zhangguimei-reference\\frames_dense\\frame_0085.png"
+    },
+    {
+      "time": 86,
+      "path": "D:\\codex\\projects\\AiBianDao\\06-视频制作项目\\ABD-2026-003-zhangguimei-reference\\frames_dense\\frame_0086.png"
+    },
+    {
+      "time": 87,
+      "path": "D:\\codex\\projects\\AiBianDao\\06-视频制作项目\\ABD-2026-003-zhangguimei-reference\\frames_dense\\frame_0087.png"
+    },
+    {
+      "time": 88,
+      "path": "D:\\codex\\projects\\AiBianDao\\06-视频制作项目\\ABD-2026-003-zhangguimei-reference\\frames_dense\\frame_0088.png"
+    },
+    {
+      "time": 89,
+      "path": "D:\\codex\\projects\\AiBianDao\\06-视频制作项目\\ABD-2026-003-zhangguimei-reference\\frames_dense\\frame_0089.png"
+    },
+    {
+      "time": 90,
+      "path": "D:\\codex\\projects\\AiBianDao\\06-视频制作项目\\ABD-2026-003-zhangguimei-reference\\frames_dense\\frame_0090.png"
+    },
+    {
+      "time": 91,
+      "path": "D:\\codex\\projects\\AiBianDao\\06-视频制作项目\\ABD-2026-003-zhangguimei-reference\\frames_dense\\frame_0091.png"
+    },
+    {
+      "time": 92,
+      "path": "D:\\codex\\projects\\AiBianDao\\06-视频制作项目\\ABD-2026-003-zhangguimei-reference\\frames_dense\\frame_0092.png"
+    },
+    {
+      "time": 93,
+      "path": "D:\\codex\\projects\\AiBianDao\\06-视频制作项目\\ABD-2026-003-zhangguimei-reference\\frames_dense\\frame_0093.png"
+    },
+    {
+      "time": 94,
+      "path": "D:\\codex\\projects\\AiBianDao\\06-视频制作项目\\ABD-2026-003-zhangguimei-reference\\frames_dense\\frame_0094.png"
+    },
+    {
+      "time": 95,
+      "path": "D:\\codex\\projects\\AiBianDao\\06-视频制作项目\\ABD-2026-003-zhangguimei-reference\\frames_dense\\frame_0095.png"
+    },
+    {
+      "time": 96,
+      "path": "D:\\codex\\projects\\AiBianDao\\06-视频制作项目\\ABD-2026-003-zhangguimei-reference\\frames_dense\\frame_0096.png"
+    },
+    {
+      "time": 97,
+      "path": "D:\\codex\\projects\\AiBianDao\\06-视频制作项目\\ABD-2026-003-zhangguimei-reference\\frames_dense\\frame_0097.png"
+    },
+    {
+      "time": 98,
+      "path": "D:\\codex\\projects\\AiBianDao\\06-视频制作项目\\ABD-2026-003-zhangguimei-reference\\frames_dense\\frame_0098.png"
+    },
+    {
+      "time": 99,
+      "path": "D:\\codex\\projects\\AiBianDao\\06-视频制作项目\\ABD-2026-003-zhangguimei-reference\\frames_dense\\frame_0099.png"
+    },
+    {
+      "time": 100,
+      "path": "D:\\codex\\projects\\AiBianDao\\06-视频制作项目\\ABD-2026-003-zhangguimei-reference\\frames_dense\\frame_0100.png"
+    },
+    {
+      "time": 101,
+      "path": "D:\\codex\\projects\\AiBianDao\\06-视频制作项目\\ABD-2026-003-zhangguimei-reference\\frames_dense\\frame_0101.png"
+    },
+    {
+      "time": 102,
+      "path": "D:\\codex\\projects\\AiBianDao\\06-视频制作项目\\ABD-2026-003-zhangguimei-reference\\frames_dense\\frame_0102.png"
+    },
+    {
+      "time": 103,
+      "path": "D:\\codex\\projects\\AiBianDao\\06-视频制作项目\\ABD-2026-003-zhangguimei-reference\\frames_dense\\frame_0103.png"
+    },
+    {
+      "time": 104,
+      "path": "D:\\codex\\projects\\AiBianDao\\06-视频制作项目\\ABD-2026-003-zhangguimei-reference\\frames_dense\\frame_0104.png"
+    },
+    {
+      "time": 105,
+      "path": "D:\\codex\\projects\\AiBianDao\\06-视频制作项目\\ABD-2026-003-zhangguimei-reference\\frames_dense\\frame_0105.png"
+    },
+    {
+      "time": 106,
+      "path": "D:\\codex\\projects\\AiBianDao\\06-视频制作项目\\ABD-2026-003-zhangguimei-reference\\frames_dense\\frame_0106.png"
+    },
+    {
+      "time": 107,
+      "path": "D:\\codex\\projects\\AiBianDao\\06-视频制作项目\\ABD-2026-003-zhangguimei-reference\\frames_dense\\frame_0107.png"
+    },
+    {
+      "time": 108,
+      "path": "D:\\codex\\projects\\AiBianDao\\06-视频制作项目\\ABD-2026-003-zhangguimei-reference\\frames_dense\\frame_0108.png"
+    },
+    {
+      "time": 109,
+      "path": "D:\\codex\\projects\\AiBianDao\\06-视频制作项目\\ABD-2026-003-zhangguimei-reference\\frames_dense\\frame_0109.png"
+    },
+    {
+      "time": 110,
+      "path": "D:\\codex\\projects\\AiBianDao\\06-视频制作项目\\ABD-2026-003-zhangguimei-reference\\frames_dense\\frame_0110.png"
+    },
+    {
+      "time": 111,
+      "path": "D:\\codex\\projects\\AiBianDao\\06-视频制作项目\\ABD-2026-003-zhangguimei-reference\\frames_dense\\frame_0111.png"
+    },
+    {
+      "time": 112,
+      "path": "D:\\codex\\projects\\AiBianDao\\06-视频制作项目\\ABD-2026-003-zhangguimei-reference\\frames_dense\\frame_0112.png"
+    },
+    {
+      "time": 113,
+      "path": "D:\\codex\\projects\\AiBianDao\\06-视频制作项目\\ABD-2026-003-zhangguimei-reference\\frames_dense\\frame_0113.png"
+    },
+    {
+      "time": 114,
+      "path": "D:\\codex\\projects\\AiBianDao\\06-视频制作项目\\ABD-2026-003-zhangguimei-reference\\frames_dense\\frame_0114.png"
+    },
+    {
+      "time": 115,
+      "path": "D:\\codex\\projects\\AiBianDao\\06-视频制作项目\\ABD-2026-003-zhangguimei-reference\\frames_dense\\frame_0115.png"
+    },
+    {
+      "time": 116,
+      "path": "D:\\codex\\projects\\AiBianDao\\06-视频制作项目\\ABD-2026-003-zhangguimei-reference\\frames_dense\\frame_0116.png"
+    },
+    {
+      "time": 117,
+      "path": "D:\\codex\\projects\\AiBianDao\\06-视频制作项目\\ABD-2026-003-zhangguimei-reference\\frames_dense\\frame_0117.png"
+    },
+    {
+      "time": 118,
+      "path": "D:\\codex\\projects\\AiBianDao\\06-视频制作项目\\ABD-2026-003-zhangguimei-reference\\frames_dense\\frame_0118.png"
+    },
+    {
+      "time": 119,
+      "path": "D:\\codex\\projects\\AiBianDao\\06-视频制作项目\\ABD-2026-003-zhangguimei-reference\\frames_dense\\frame_0119.png"
+    },
+    {
+      "time": 120,
+      "path": "D:\\codex\\projects\\AiBianDao\\06-视频制作项目\\ABD-2026-003-zhangguimei-reference\\frames_dense\\frame_0120.png"
+    },
+    {
+      "time": 121,
+      "path": "D:\\codex\\projects\\AiBianDao\\06-视频制作项目\\ABD-2026-003-zhangguimei-reference\\frames_dense\\frame_0121.png"
+    },
+    {
+      "time": 122,
+      "path": "D:\\codex\\projects\\AiBianDao\\06-视频制作项目\\ABD-2026-003-zhangguimei-reference\\frames_dense\\frame_0122.png"
+    },
+    {
+      "time": 123,
+      "path": "D:\\codex\\projects\\AiBianDao\\06-视频制作项目\\ABD-2026-003-zhangguimei-reference\\frames_dense\\frame_0123.png"
+    },
+    {
+      "time": 124,
+      "path": "D:\\codex\\projects\\AiBianDao\\06-视频制作项目\\ABD-2026-003-zhangguimei-reference\\frames_dense\\frame_0124.png"
+    },
+    {
+      "time": 125,
+      "path": "D:\\codex\\projects\\AiBianDao\\06-视频制作项目\\ABD-2026-003-zhangguimei-reference\\frames_dense\\frame_0125.png"
+    },
+    {
+      "time": 126,
+      "path": "D:\\codex\\projects\\AiBianDao\\06-视频制作项目\\ABD-2026-003-zhangguimei-reference\\frames_dense\\frame_0126.png"
+    },
+    {
+      "time": 127,
+      "path": "D:\\codex\\projects\\AiBianDao\\06-视频制作项目\\ABD-2026-003-zhangguimei-reference\\frames_dense\\frame_0127.png"
+    },
+    {
+      "time": 128,
+      "path": "D:\\codex\\projects\\AiBianDao\\06-视频制作项目\\ABD-2026-003-zhangguimei-reference\\frames_dense\\frame_0128.png"
+    },
+    {
+      "time": 129,
+      "path": "D:\\codex\\projects\\AiBianDao\\06-视频制作项目\\ABD-2026-003-zhangguimei-reference\\frames_dense\\frame_0129.png"
+    },
+    {
+      "time": 130,
+      "path": "D:\\codex\\projects\\AiBianDao\\06-视频制作项目\\ABD-2026-003-zhangguimei-reference\\frames_dense\\frame_0130.png"
+    },
+    {
+      "time": 131,
+      "path": "D:\\codex\\projects\\AiBianDao\\06-视频制作项目\\ABD-2026-003-zhangguimei-reference\\frames_dense\\frame_0131.png"
+    },
+    {
+      "time": 132,
+      "path": "D:\\codex\\projects\\AiBianDao\\06-视频制作项目\\ABD-2026-003-zhangguimei-reference\\frames_dense\\frame_0132.png"
+    },
+    {
+      "time": 133,
+      "path": "D:\\codex\\projects\\AiBianDao\\06-视频制作项目\\ABD-2026-003-zhangguimei-reference\\frames_dense\\frame_0133.png"
+    },
+    {
+      "time": 134,
+      "path": "D:\\codex\\projects\\AiBianDao\\06-视频制作项目\\ABD-2026-003-zhangguimei-reference\\frames_dense\\frame_0134.png"
+    },
+    {
+      "time": 135,
+      "path": "D:\\codex\\projects\\AiBianDao\\06-视频制作项目\\ABD-2026-003-zhangguimei-reference\\frames_dense\\frame_0135.png"
+    },
+    {
+      "time": 136,
+      "path": "D:\\codex\\projects\\AiBianDao\\06-视频制作项目\\ABD-2026-003-zhangguimei-reference\\frames_dense\\frame_0136.png"
+    },
+    {
+      "time": 137,
+      "path": "D:\\codex\\projects\\AiBianDao\\06-视频制作项目\\ABD-2026-003-zhangguimei-reference\\frames_dense\\frame_0137.png"
+    },
+    {
+      "time": 138,
+      "path": "D:\\codex\\projects\\AiBianDao\\06-视频制作项目\\ABD-2026-003-zhangguimei-reference\\frames_dense\\frame_0138.png"
+    },
+    {
+      "time": 139,
+      "path": "D:\\codex\\projects\\AiBianDao\\06-视频制作项目\\ABD-2026-003-zhangguimei-reference\\frames_dense\\frame_0139.png"
+    },
+    {
+      "time": 140,
+      "path": "D:\\codex\\projects\\AiBianDao\\06-视频制作项目\\ABD-2026-003-zhangguimei-reference\\frames_dense\\frame_0140.png"
+    },
+    {
+      "time": 141,
+      "path": "D:\\codex\\projects\\AiBianDao\\06-视频制作项目\\ABD-2026-003-zhangguimei-reference\\frames_dense\\frame_0141.png"
+    },
+    {
+      "time": 142,
+      "path": "D:\\codex\\projects\\AiBianDao\\06-视频制作项目\\ABD-2026-003-zhangguimei-reference\\frames_dense\\frame_0142.png"
+    },
+    {
+      "time": 143,
+      "path": "D:\\codex\\projects\\AiBianDao\\06-视频制作项目\\ABD-2026-003-zhangguimei-reference\\frames_dense\\frame_0143.png"
+    },
+    {
+      "time": 144,
+      "path": "D:\\codex\\projects\\AiBianDao\\06-视频制作项目\\ABD-2026-003-zhangguimei-reference\\frames_dense\\frame_0144.png"
+    },
+    {
+      "time": 145,
+      "path": "D:\\codex\\projects\\AiBianDao\\06-视频制作项目\\ABD-2026-003-zhangguimei-reference\\frames_dense\\frame_0145.png"
+    }
+  ],
+  "sourceVideo": "D:\\codex\\projects\\douyin_download_video-003\\.app-test\\003-窗台里的张桂美.mp4",
+  "safeVideo": "C:\\Users\\MSI\\AppData\\Local\\Temp\\codex_reference_video_1781421122.mp4",
+  "contactSheets": [
+    "D:\\codex\\projects\\AiBianDao\\06-视频制作项目\\ABD-2026-003-zhangguimei-reference\\frames_dense\\contact_sheet_1.jpg",
+    "D:\\codex\\projects\\AiBianDao\\06-视频制作项目\\ABD-2026-003-zhangguimei-reference\\frames_dense\\contact_sheet_2.jpg",
+    "D:\\codex\\projects\\AiBianDao\\06-视频制作项目\\ABD-2026-003-zhangguimei-reference\\frames_dense\\contact_sheet_3.jpg",
+    "D:\\codex\\projects\\AiBianDao\\06-视频制作项目\\ABD-2026-003-zhangguimei-reference\\frames_dense\\contact_sheet_4.jpg",
+    "D:\\codex\\projects\\AiBianDao\\06-视频制作项目\\ABD-2026-003-zhangguimei-reference\\frames_dense\\contact_sheet_5.jpg",
+    "D:\\codex\\projects\\AiBianDao\\06-视频制作项目\\ABD-2026-003-zhangguimei-reference\\frames_dense\\contact_sheet_6.jpg",
+    "D:\\codex\\projects\\AiBianDao\\06-视频制作项目\\ABD-2026-003-zhangguimei-reference\\frames_dense\\contact_sheet_7.jpg",
+    "D:\\codex\\projects\\AiBianDao\\06-视频制作项目\\ABD-2026-003-zhangguimei-reference\\frames_dense\\contact_sheet_8.jpg",
+    "D:\\codex\\projects\\AiBianDao\\06-视频制作项目\\ABD-2026-003-zhangguimei-reference\\frames_dense\\contact_sheet_9.jpg",
+    "D:\\codex\\projects\\AiBianDao\\06-视频制作项目\\ABD-2026-003-zhangguimei-reference\\frames_dense\\contact_sheet_10.jpg",
+    "D:\\codex\\projects\\AiBianDao\\06-视频制作项目\\ABD-2026-003-zhangguimei-reference\\frames_dense\\contact_sheet_11.jpg",
+    "D:\\codex\\projects\\AiBianDao\\06-视频制作项目\\ABD-2026-003-zhangguimei-reference\\frames_dense\\contact_sheet_12.jpg",
+    "D:\\codex\\projects\\AiBianDao\\06-视频制作项目\\ABD-2026-003-zhangguimei-reference\\frames_dense\\contact_sheet_13.jpg"
+  ],
+  "metadataPath": "D:\\codex\\projects\\AiBianDao\\06-视频制作项目\\ABD-2026-003-zhangguimei-reference\\frames_dense\\metadata.json"
+}

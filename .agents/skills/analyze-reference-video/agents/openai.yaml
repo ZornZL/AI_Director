@@ -1,0 +1,7 @@
+interface:
+  display_name: "参考视频分析"
+  short_description: "拆解参考视频，对照历史训练库并推荐入库或合并方案"
+  default_prompt: "使用 $analyze-reference-video 分析这条视频，对照已有训练库，推荐 A/B/C/D 或合并方案，但不要自动入库。"
+
+policy:
+  allow_implicit_invocation: true

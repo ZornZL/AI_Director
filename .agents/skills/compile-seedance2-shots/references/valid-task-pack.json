@@ -1,0 +1,36 @@
+{
+  "project_id": "ABD-PROD-2026-001-demo",
+  "model_profile": {"model": "Seedance 2.0", "aspect_ratio": "9:16", "reference_limits": {"image": 9, "audio": 3, "video": 3}},
+  "source_lock": {"D01": "女儿问母亲为什么没有吃饭"},
+  "production_assumptions": ["[安全假设] 冬日傍晚暖色侧光"],
+  "bibles": {"characters": ["母亲", "女儿"], "location": "乡村厨房"},
+  "assets": [{"asset_id": "CHAR_MOTHER", "type": "image", "purpose": "母亲身份"}],
+  "asset_generation_tasks": [],
+  "shots": [
+    {
+      "shot_id": "S01",
+      "source_ids": ["D01"],
+      "purpose": "建立女儿发现母亲未吃饭的关心",
+      "duration_seconds": 6,
+      "aspect_ratio": "9:16",
+      "input_mode": "image",
+      "references": [{"asset_id": "CHAR_MOTHER", "type": "image", "purpose": "固定母亲身份"}],
+      "keyframes": {"first": {"prompt": "母亲坐在乡村厨房餐桌右侧，女儿从左侧刚刚入画，固定中景，冬日傍晚暖光", "acceptance": ["两人身份正确", "站位正确", "手部完整"]}},
+      "first_frame": "母亲坐在画面右侧餐桌旁，女儿从左侧入画",
+      "camera": "固定中景，平视，轻微浅景深",
+      "blocking": "女儿停在桌边，母亲抬眼",
+      "performance": "女儿眉头轻收，母亲先回避视线再看向女儿",
+      "audio": {"speaker": "女儿", "addressee": "母亲", "dialogue": "妈，你怎么又没吃饭？", "lip_sync": true, "non_speakers_closed_mouth": true},
+      "voice_continuity": {"voice_id": "VOICE_DAUGHTER", "description": "年轻女儿，自然关心，语速中等", "inheritance": "女儿后续对白保持同一年龄感和关心底色"},
+      "timeline": ["0-1秒女儿入画", "1-4秒女儿说话", "4-6秒母亲抬眼反应"],
+      "edit_handles": {"head_seconds": 0.3, "tail_seconds": 0.4, "head_state": "女儿入画前厨房空间稳定", "tail_state": "母亲抬眼看向女儿并保持，嘴部闭合", "cut_note": "常规拼接，尾帧可裁切；如需更长停留由剪辑定格处理"},
+      "lighting_environment": "冬日傍晚暖色窗光，厨房安静",
+      "end_frame": "母亲抬眼看向女儿，保持0.5秒",
+      "continuity_from": "",
+      "negative_constraints": ["不换脸", "母亲不动嘴", "不改变服装"],
+      "prompt": "【任务与时长】S01，6秒，9:16。【参考资产】使用CHAR_MOTHER固定母亲身份。【首帧】母亲坐在右侧，女儿左侧入画。【摄影】固定中景平视。【人物走位】女儿停在桌边。【表演与动作】女儿关心发问，母亲抬眼。【音画同步】女儿逐字说台词，母亲闭嘴。【逐秒时间轴】0-1秒入画，1-4秒说话，4-6秒反应。【剪辑手柄】开头保留0.3秒稳定起始状态；结尾保留0.4秒稳定尾帧，尾部稳定段不新增动作或对白，人物嘴部自然闭合，方便后期剪辑拼接；如需更长停留由剪辑定格处理。【尾帧】母亲看向女儿。【禁止】不换脸、不换服装。",
+      "acceptance": ["母亲身份一致", "只有女儿说话", "台词口型同步"],
+      "fallback": "失败时固定两人位置并删除女儿入画动作"
+    }
+  ]
+}

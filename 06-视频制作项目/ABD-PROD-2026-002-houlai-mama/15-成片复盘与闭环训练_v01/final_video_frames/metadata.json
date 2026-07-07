@@ -1,0 +1,138 @@
+{
+  "duration": 143.150998,
+  "videoWidth": 1920,
+  "videoHeight": 1080,
+  "readyState": 4,
+  "interval": 5,
+  "outDir": "D:\\codex\\projects\\AiBianDao\\06-视频制作项目\\ABD-PROD-2026-002-houlai-mama\\15-成片复盘与闭环训练_v01\\final_video_frames",
+  "frames": [
+    {
+      "time": 0,
+      "path": "D:\\codex\\projects\\AiBianDao\\06-视频制作项目\\ABD-PROD-2026-002-houlai-mama\\15-成片复盘与闭环训练_v01\\final_video_frames\\frame_0000.png"
+    },
+    {
+      "time": 5,
+      "path": "D:\\codex\\projects\\AiBianDao\\06-视频制作项目\\ABD-PROD-2026-002-houlai-mama\\15-成片复盘与闭环训练_v01\\final_video_frames\\frame_0005.png"
+    },
+    {
+      "time": 10,
+      "path": "D:\\codex\\projects\\AiBianDao\\06-视频制作项目\\ABD-PROD-2026-002-houlai-mama\\15-成片复盘与闭环训练_v01\\final_video_frames\\frame_0010.png"
+    },
+    {
+      "time": 15,
+      "path": "D:\\codex\\projects\\AiBianDao\\06-视频制作项目\\ABD-PROD-2026-002-houlai-mama\\15-成片复盘与闭环训练_v01\\final_video_frames\\frame_0015.png"
+    },
+    {
+      "time": 20,
+      "path": "D:\\codex\\projects\\AiBianDao\\06-视频制作项目\\ABD-PROD-2026-002-houlai-mama\\15-成片复盘与闭环训练_v01\\final_video_frames\\frame_0020.png"
+    },
+    {
+      "time": 25,
+      "path": "D:\\codex\\projects\\AiBianDao\\06-视频制作项目\\ABD-PROD-2026-002-houlai-mama\\15-成片复盘与闭环训练_v01\\final_video_frames\\frame_0025.png"
+    },
+    {
+      "time": 30,
+      "path": "D:\\codex\\projects\\AiBianDao\\06-视频制作项目\\ABD-PROD-2026-002-houlai-mama\\15-成片复盘与闭环训练_v01\\final_video_frames\\frame_0030.png"
+    },
+    {
+      "time": 35,
+      "path": "D:\\codex\\projects\\AiBianDao\\06-视频制作项目\\ABD-PROD-2026-002-houlai-mama\\15-成片复盘与闭环训练_v01\\final_video_frames\\frame_0035.png"
+    },
+    {
+      "time": 40,
+      "path": "D:\\codex\\projects\\AiBianDao\\06-视频制作项目\\ABD-PROD-2026-002-houlai-mama\\15-成片复盘与闭环训练_v01\\final_video_frames\\frame_0040.png"
+    },
+    {
+      "time": 45,
+      "path": "D:\\codex\\projects\\AiBianDao\\06-视频制作项目\\ABD-PROD-2026-002-houlai-mama\\15-成片复盘与闭环训练_v01\\final_video_frames\\frame_0045.png"
+    },
+    {
+      "time": 50,
+      "path": "D:\\codex\\projects\\AiBianDao\\06-视频制作项目\\ABD-PROD-2026-002-houlai-mama\\15-成片复盘与闭环训练_v01\\final_video_frames\\frame_0050.png"
+    },
+    {
+      "time": 55,
+      "path": "D:\\codex\\projects\\AiBianDao\\06-视频制作项目\\ABD-PROD-2026-002-houlai-mama\\15-成片复盘与闭环训练_v01\\final_video_frames\\frame_0055.png"
+    },
+    {
+      "time": 60,
+      "path": "D:\\codex\\projects\\AiBianDao\\06-视频制作项目\\ABD-PROD-2026-002-houlai-mama\\15-成片复盘与闭环训练_v01\\final_video_frames\\frame_0060.png"
+    },
+    {
+      "time": 65,
+      "path": "D:\\codex\\projects\\AiBianDao\\06-视频制作项目\\ABD-PROD-2026-002-houlai-mama\\15-成片复盘与闭环训练_v01\\final_video_frames\\frame_0065.png"
+    },
+    {
+      "time": 70,
+      "path": "D:\\codex\\projects\\AiBianDao\\06-视频制作项目\\ABD-PROD-2026-002-houlai-mama\\15-成片复盘与闭环训练_v01\\final_video_frames\\frame_0070.png"
+    },
+    {
+      "time": 75,
+      "path": "D:\\codex\\projects\\AiBianDao\\06-视频制作项目\\ABD-PROD-2026-002-houlai-mama\\15-成片复盘与闭环训练_v01\\final_video_frames\\frame_0075.png"
+    },
+    {
+      "time": 80,
+      "path": "D:\\codex\\projects\\AiBianDao\\06-视频制作项目\\ABD-PROD-2026-002-houlai-mama\\15-成片复盘与闭环训练_v01\\final_video_frames\\frame_0080.png"
+    },
+    {
+      "time": 85,
+      "path": "D:\\codex\\projects\\AiBianDao\\06-视频制作项目\\ABD-PROD-2026-002-houlai-mama\\15-成片复盘与闭环训练_v01\\final_video_frames\\frame_0085.png"
+    },
+    {
+      "time": 90,
+      "path": "D:\\codex\\projects\\AiBianDao\\06-视频制作项目\\ABD-PROD-2026-002-houlai-mama\\15-成片复盘与闭环训练_v01\\final_video_frames\\frame_0090.png"
+    },
+    {
+      "time": 95,
+      "path": "D:\\codex\\projects\\AiBianDao\\06-视频制作项目\\ABD-PROD-2026-002-houlai-mama\\15-成片复盘与闭环训练_v01\\final_video_frames\\frame_0095.png"
+    },
+    {
+      "time": 100,
+      "path": "D:\\codex\\projects\\AiBianDao\\06-视频制作项目\\ABD-PROD-2026-002-houlai-mama\\15-成片复盘与闭环训练_v01\\final_video_frames\\frame_0100.png"
+    },
+    {
+      "time": 105,
+      "path": "D:\\codex\\projects\\AiBianDao\\06-视频制作项目\\ABD-PROD-2026-002-houlai-mama\\15-成片复盘与闭环训练_v01\\final_video_frames\\frame_0105.png"
+    },
+    {
+      "time": 110,
+      "path": "D:\\codex\\projects\\AiBianDao\\06-视频制作项目\\ABD-PROD-2026-002-houlai-mama\\15-成片复盘与闭环训练_v01\\final_video_frames\\frame_0110.png"
+    },
+    {
+      "time": 115,
+      "path": "D:\\codex\\projects\\AiBianDao\\06-视频制作项目\\ABD-PROD-2026-002-houlai-mama\\15-成片复盘与闭环训练_v01\\final_video_frames\\frame_0115.png"
+    },
+    {
+      "time": 120,
+      "path": "D:\\codex\\projects\\AiBianDao\\06-视频制作项目\\ABD-PROD-2026-002-houlai-mama\\15-成片复盘与闭环训练_v01\\final_video_frames\\frame_0120.png"
+    },
+    {
+      "time": 125,
+      "path": "D:\\codex\\projects\\AiBianDao\\06-视频制作项目\\ABD-PROD-2026-002-houlai-mama\\15-成片复盘与闭环训练_v01\\final_video_frames\\frame_0125.png"
+    },
+    {
+      "time": 130,
+      "path": "D:\\codex\\projects\\AiBianDao\\06-视频制作项目\\ABD-PROD-2026-002-houlai-mama\\15-成片复盘与闭环训练_v01\\final_video_frames\\frame_0130.png"
+    },
+    {
+      "time": 135,
+      "path": "D:\\codex\\projects\\AiBianDao\\06-视频制作项目\\ABD-PROD-2026-002-houlai-mama\\15-成片复盘与闭环训练_v01\\final_video_frames\\frame_0135.png"
+    },
+    {
+      "time": 140,
+      "path": "D:\\codex\\projects\\AiBianDao\\06-视频制作项目\\ABD-PROD-2026-002-houlai-mama\\15-成片复盘与闭环训练_v01\\final_video_frames\\frame_0140.png"
+    },
+    {
+      "time": 142.150998,
+      "path": "D:\\codex\\projects\\AiBianDao\\06-视频制作项目\\ABD-PROD-2026-002-houlai-mama\\15-成片复盘与闭环训练_v01\\final_video_frames\\frame_0142.png"
+    }
+  ],
+  "sourceVideo": "D:\\001-四大平台\\003-字幕高清处理\\2026年6月20日-后来我成了妈妈的妈妈\\AiBianDao视频集合\\剪辑之后的完整视频\\后来，我成了妈妈的妈妈-007.mp4",
+  "safeVideo": "C:\\Users\\MSI\\AppData\\Local\\Temp\\codex_reference_video_1782446451.mp4",
+  "contactSheets": [
+    "D:\\codex\\projects\\AiBianDao\\06-视频制作项目\\ABD-PROD-2026-002-houlai-mama\\15-成片复盘与闭环训练_v01\\final_video_frames\\contact_sheet_1.jpg",
+    "D:\\codex\\projects\\AiBianDao\\06-视频制作项目\\ABD-PROD-2026-002-houlai-mama\\15-成片复盘与闭环训练_v01\\final_video_frames\\contact_sheet_2.jpg",
+    "D:\\codex\\projects\\AiBianDao\\06-视频制作项目\\ABD-PROD-2026-002-houlai-mama\\15-成片复盘与闭环训练_v01\\final_video_frames\\contact_sheet_3.jpg"
+  ],
+  "metadataPath": "D:\\codex\\projects\\AiBianDao\\06-视频制作项目\\ABD-PROD-2026-002-houlai-mama\\15-成片复盘与闭环训练_v01\\final_video_frames\\metadata.json"
+}

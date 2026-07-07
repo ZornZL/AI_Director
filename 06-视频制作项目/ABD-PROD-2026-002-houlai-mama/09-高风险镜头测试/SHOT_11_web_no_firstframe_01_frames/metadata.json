@@ -1,0 +1,40 @@
+{
+  "duration": 5.088005,
+  "videoWidth": 1280,
+  "videoHeight": 720,
+  "readyState": 4,
+  "interval": 1,
+  "outDir": "D:\\codex\\projects\\AiBianDao\\06-视频制作项目\\ABD-PROD-2026-002-houlai-mama\\09-高风险镜头测试\\SHOT_11_web_no_firstframe_01_frames",
+  "frames": [
+    {
+      "time": 0,
+      "path": "D:\\codex\\projects\\AiBianDao\\06-视频制作项目\\ABD-PROD-2026-002-houlai-mama\\09-高风险镜头测试\\SHOT_11_web_no_firstframe_01_frames\\frame_0000.png"
+    },
+    {
+      "time": 1,
+      "path": "D:\\codex\\projects\\AiBianDao\\06-视频制作项目\\ABD-PROD-2026-002-houlai-mama\\09-高风险镜头测试\\SHOT_11_web_no_firstframe_01_frames\\frame_0001.png"
+    },
+    {
+      "time": 2,
+      "path": "D:\\codex\\projects\\AiBianDao\\06-视频制作项目\\ABD-PROD-2026-002-houlai-mama\\09-高风险镜头测试\\SHOT_11_web_no_firstframe_01_frames\\frame_0002.png"
+    },
+    {
+      "time": 3,
+      "path": "D:\\codex\\projects\\AiBianDao\\06-视频制作项目\\ABD-PROD-2026-002-houlai-mama\\09-高风险镜头测试\\SHOT_11_web_no_firstframe_01_frames\\frame_0003.png"
+    },
+    {
+      "time": 4,
+      "path": "D:\\codex\\projects\\AiBianDao\\06-视频制作项目\\ABD-PROD-2026-002-houlai-mama\\09-高风险镜头测试\\SHOT_11_web_no_firstframe_01_frames\\frame_0004.png"
+    },
+    {
+      "time": 5,
+      "path": "D:\\codex\\projects\\AiBianDao\\06-视频制作项目\\ABD-PROD-2026-002-houlai-mama\\09-高风险镜头测试\\SHOT_11_web_no_firstframe_01_frames\\frame_0005.png"
+    }
+  ],
+  "sourceVideo": "D:\\001-四大平台\\003-字幕高清处理\\2026年6月20日-后来我成了妈妈的妈妈\\008-jimeng-2026-06-20-6128-横屏16_9，写实短剧质感，严格延续首帧画面。傍晚普通社区服务站外或社区公共空间.mp4",
+  "safeVideo": "C:\\Users\\MSI\\AppData\\Local\\Temp\\codex_reference_video_1781962567.mp4",
+  "contactSheets": [
+    "D:\\codex\\projects\\AiBianDao\\06-视频制作项目\\ABD-PROD-2026-002-houlai-mama\\09-高风险镜头测试\\SHOT_11_web_no_firstframe_01_frames\\contact_sheet_1.jpg"
+  ],
+  "metadataPath": "D:\\codex\\projects\\AiBianDao\\06-视频制作项目\\ABD-PROD-2026-002-houlai-mama\\09-高风险镜头测试\\SHOT_11_web_no_firstframe_01_frames\\metadata.json"
+}

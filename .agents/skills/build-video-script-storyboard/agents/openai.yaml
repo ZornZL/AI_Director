@@ -1,0 +1,8 @@
+interface:
+  display_name: "脚本与分镜制作"
+  short_description: "把已选创意发展为可审核可生成的完整视频脚本和逐镜分镜"
+  default_prompt: "使用 $build-video-script-storyboard 将选定创意制作成脚本和分镜。"
+
+policy:
+  allow_implicit_invocation: true
+

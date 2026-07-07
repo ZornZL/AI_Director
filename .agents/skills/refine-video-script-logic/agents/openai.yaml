@@ -1,0 +1,6 @@
+interface:
+  display_name: "视频文案逻辑初审"
+  short_description: "检查文案逻辑、反转、轻植入和生成难度，确认后再锁定修改版"
+  default_prompt: "使用 $refine-video-script-logic 检查这份视频文案的逻辑并给出候选调整，等待我确认后再锁定。"
+policy:
+  allow_implicit_invocation: true

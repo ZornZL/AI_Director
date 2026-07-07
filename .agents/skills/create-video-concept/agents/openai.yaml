@@ -1,0 +1,8 @@
+interface:
+  display_name: "视频创意策划"
+  short_description: "结合品牌产品用户与训练库生成差异明显的原创视频方向"
+  default_prompt: "使用 $create-video-concept 为当前产品提出三个机制不同的原创视频方向。"
+
+policy:
+  allow_implicit_invocation: true
+

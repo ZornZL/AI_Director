@@ -1,0 +1,17 @@
+{
+  "source": "D:\\codex\\projects\\douyin_download_video-003\\.app-test\\006-告别.mp4",
+  "duration_sec": 131.533333,
+  "width": 1280,
+  "height": 720,
+  "fps": 30.0,
+  "streams": [
+    {
+      "type": "audio",
+      "codec": "aac"
+    },
+    {
+      "type": "video",
+      "codec": "hevc"
+    }
+  ]
+}

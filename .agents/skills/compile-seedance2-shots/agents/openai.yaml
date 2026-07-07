@@ -1,0 +1,6 @@
+interface:
+  display_name: "Seedance 2.0逐镜编译器"
+  short_description: "把简单文案编译成资产、关键帧和可直接执行的Seedance 2.0逐镜任务包"
+  default_prompt: "使用 $compile-seedance2-shots 将这份简单视频文案编译成完整的Seedance 2.0逐镜生产方案。"
+policy:
+  allow_implicit_invocation: true

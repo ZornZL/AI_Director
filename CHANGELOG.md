@@ -1,8 +1,14 @@
 # Changelog
 
-## 0.1.0 - 2026-07-07
+## 0.2.0 - 2026-07-12
 
-- Migrated the core AiBianDao knowledge system into the `AI_Director` GitHub repository structure.
-- Preserved project rules, system control documents, templates, training libraries, lightweight project records, custom Codex skills, and lightweight tools.
-- Added GitHub-friendly entry files: `README.md`, `START_HERE.md`, `VERSION`, and `CHANGELOG.md`.
-- Excluded large generated media, local executable tools, temporary analysis folders, IDE caches, and credentials from normal Git tracking.
+- Reduced the repository to the beginner workflow: theme, three directions, locked script, director shots, assets, and independent Seedance tasks.
+- Kept `ABD-PROD-2026-002-houlai-mama` as the only validated full-loop project.
+- Removed other unfinished production/reference projects and unverified training cards.
+- Removed unvalidated G2V as a mandatory gate; storyboard preview remains optional and explicitly unproven.
+- Reduced project Skills to creative direction, logic review, and Seedance shot compilation.
+- Rebuilt indexes, capability boundaries, project board, training registry, templates, and README around the verified boundary.
+
+## 0.1.0
+
+- Initial restored AI_Director project system.
